@@ -4,10 +4,11 @@ Their marketing team is looking to boost business by analysing their existing cu
 1. There are 4 datasets (Customer demographic, customer address, new customer list and transactions)  
 please recommend which of these 1000 new customers in new customer list should be targeted to drive the most value for the organisation. 
 2. There are 3 tasks:
+   
    (1) Data Quanlity : Check the data quality for 4 datasets and improve data quality
    
    (2) Data Insights : Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset and please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. 
    
    (3) Present insights by slides and dashboard
 
-Please find code in KPMG.ipynb file
+Please find code in KPMG.ipynb file and dashboard in Tableau dashboard screenshot.png
