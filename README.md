@@ -8,4 +8,5 @@ please recommend which of these 1000 new customers in new customer list should b
    (2) Data Insights : Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset
    please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. 
 3. Present insights by slides and dashboard
+
 Please find code in KPMG.ipynb file
